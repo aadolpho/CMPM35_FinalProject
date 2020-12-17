@@ -1,1 +1,3 @@
 # CMPM35_FinalProject
+Group: Alexis Adolpho and Stanley Caldwell
+Description: We decided to do a bread theme for our final project. For the interaction part of the assignment, we decided to create 100 cubes with bread images on each side of the cubes with white, red, and green lighting. For the second part of the project, we loaded in a truck and chest obj file with a bread texture on both objects. There is also a small button that you can press on the left side of the screen to change the bread texture on both objects. However, the user must press the button first if they want to change to a different bread texture. 
